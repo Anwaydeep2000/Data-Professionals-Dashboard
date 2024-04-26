@@ -1,3 +1,4 @@
-# World Wide Data Professionals Dashboard
+# World Wide Data Professionals Survey Dashboard
 
-![Data-Professional+Dashboard](https://github.com/Anwaydeep2000/Data-Professionals-Dashboard/assets/81034448/578fbcbe-91fa-4635-942a-71cc553dcc94)
+![DataProdessionalDashboard](https://github.com/Anwaydeep2000/Data-Professionals-Dashboard/assets/81034448/02e32d1e-5083-4cef-9506-55849c032f54)
+
